@@ -1,3 +1,3 @@
-# sqflite_to_do_app
+# Tasks_app
 
-A new Flutter project.
+A flutter task management app, made with sqflite
